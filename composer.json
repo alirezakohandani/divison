@@ -1,0 +1,19 @@
+{
+    "name": "kohandani/division",
+    "description": "The package contains whole of continent, Country and city in the world.",
+    "psr-4": {
+        "App\\": "app/",
+        "Database\\Factories\\": "database/factories/",
+        "Database\\Seeders\\": "database/seeders/",
+        "Fhsinchy\\Inspire\\": "packages/kohandani/division/src/"
+    },
+    "authors": [
+        {
+            "name": "alirezakohandani",
+            "email": "alireza.ko73@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
